@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'OpenSans Regular';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face{
+    font-family: 'OpenSans Bold';
+    src: url(../fonts/OpenSans-BoldItalic.ttf);
+}
+@font-face{
+    font-family: 'SourceSansPro Light';
+    src: url(../fonts/SourceSansPro-Light.ttf);
+}
